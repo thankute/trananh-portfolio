@@ -1,0 +1,37 @@
+.skills {
+    .ant-progress-inner {
+        height: 34px;
+        .ant-progress-bg {
+            height: 34px !important;
+        }
+    }
+
+    .title {
+        font-size: 22px;
+        letter-spacing: 5px;
+    }
+
+    .custom {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .download {
+        border: none;
+        padding: 10px 20px;
+        background-color: #E7FFE9;
+        
+        &:hover {
+            cursor: pointer;
+            background-color: #BBC6BC;
+            color: #575555;
+        }
+
+        img {
+            height: 18px;
+            margin-right: 10px;
+        }
+    }
+}

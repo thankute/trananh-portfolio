@@ -1,0 +1,48 @@
+.projects {
+    margin-top: 40px;
+
+    .heading {
+        margin-bottom: 20px;
+    }
+
+    .ant-image {
+        position: relative;
+    }
+     .ant-image-mask:hover::after {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+        }
+    .img1 {
+        .ant-image-mask:hover::after {
+            content: 'PANCAKE - Logo';
+        }
+    }
+    .img2 {
+        .ant-image-mask:hover::after {
+            content: 'Dragon - ILLUSTRATOR';
+        }
+    }
+    .img3 {
+        .ant-image-mask:hover::after {
+            content: 'Gecko - ILLUSTRATOR';
+        }
+    }
+    .img4 {
+        .ant-image-mask:hover::after {
+            content: 'Landing page - Bike';
+        }
+    }
+    .img5 {
+        .ant-image-mask:hover::after {
+            content: 'Brand identity - RORO';
+        }
+    }
+
+    .ant-image-mask-info {
+        display: none;
+    }
+
+}

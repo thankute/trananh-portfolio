@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  /* overflow: hidden; */
+  height: 100%;
+  width: 100%;
+  max-width: 100%;
+}
+
+body {
+  /* overflow: hidden; */
+  margin: auto !important;
+  height: 100%;
+  width: 100%;
+  font-family: 'Poppins', sans-serif !important;
+  color: #000 !important;
+  background-color: #D0DDC3 !important;
+}
+
+.heading {
+  font-size: 48px;
+}
+
+.content {
+  padding: 0 134px;
+}

@@ -1,0 +1,46 @@
+.about.ant-col {
+    position: unset;
+}
+.about {
+    margin-top: 100px;
+
+
+    img {
+        width: 1200px;
+        z-index: 10;
+    }
+
+    .avatar {
+        position: relative !important;
+    }
+
+    .box {
+        width: 520px;
+        height: 520px;
+        background-color: #68BA90;
+    }
+   
+    .box-1 {
+        position: absolute;
+        top: -40px;
+        left: -80px;
+    }
+     .box-2 {
+        position: absolute;
+        bottom: -40px;
+        right: -80px;
+    }
+
+    .heading {
+        margin-top: 100px;
+    }
+    
+    .ant-divider {
+        border-top: 1px solid #000;
+    }
+    .ant-divider-horizontal {
+        width: 30%;
+        min-width: 30%;
+        margin: 12px 0;
+    }
+}
