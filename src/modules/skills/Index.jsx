@@ -65,7 +65,7 @@ function Skills() {
 
       <Row style={{ marginTop: 30}}>
           <button className='download'> 
-            <img src='./src/assets/imgs/download.png'/>
+            <img src='src/assets/imgs/download.png'/>
             Download Resume
           </button>
       </Row>
