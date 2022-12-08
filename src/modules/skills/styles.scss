@@ -1,8 +1,8 @@
 .skills {
     .ant-progress-inner {
-        height: 34px;
+        height: 20px;
         .ant-progress-bg {
-            height: 34px !important;
+            height: 20px !important;
         }
     }
     .ant-progress-success-bg, .ant-progress-bg {
@@ -10,7 +10,7 @@
     }
 
     .title {
-        font-size: 22px;
+        font-size: 18px;
         letter-spacing: 5px;
         color: #4a4a4a;
     }
@@ -24,9 +24,9 @@
 
     .download {
         border: none;
-        padding: 18px 24px;
+        padding: 10px 20px;
         background-color: #E7FFE9;
-        font-size: 22px;
+        font-size: 16px;
         
         &:hover {
             cursor: pointer;

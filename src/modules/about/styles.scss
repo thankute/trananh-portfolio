@@ -49,7 +49,7 @@
   .about {
 
     img {
-        width: 900px;
+        width: 700px;
         z-index: 10;
     }
   }
@@ -58,8 +58,24 @@
   .about {
 
     img {
-        width: 700px;
+        width: 740px!important;
         z-index: 10;
+    }
+
+    .box {
+        width: 420px;
+        height: 420px;
+        background-color: #68BA90;
+    }
+      .box-1 {
+        position: absolute;
+        top: -40px;
+        left: -70px;
+    }
+     .box-2 {
+        position: absolute;
+        bottom: -40px;
+        right: -70px;
     }
   }
 }

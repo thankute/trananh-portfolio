@@ -40,7 +40,7 @@ function Contact() {
       </Col>
       
       <Row>
-        <p style={{ marginTop: 20 , fontSize: 18 , color: '#4a4a4a'}}>
+        <p style={{ marginTop: 18 , fontSize: 16 , color: '#4a4a4a'}}>
           Let’s get in touch. Send me a message:
         </p>
       </Row>
@@ -91,7 +91,7 @@ function Contact() {
             </Row>
         </Form>
       </Col>
-      <Row style={{marginTop: 80, marginBottom: 20}}>
+      <Row style={{marginTop: 56, marginBottom: 10}}>
         <a href="https://www.facebook.com/llt.229" target='_blank'>
           <img src={'assets/imgs/Vector.png'} className='social-media'/>
         </a>

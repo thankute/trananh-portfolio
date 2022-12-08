@@ -28,7 +28,7 @@ function Projects() {
           <Row className='img4'>
           <Image src={'assets/imgs/image3.png'}/>
           </Row>
-          <Row style={{marginTop: 20}} className='img5'>
+          <Row style={{marginTop: 12}} className='img5'>
           <Image src={'assets/imgs/logoooooororoo1.png'}/>
           </Row>
         </Col>

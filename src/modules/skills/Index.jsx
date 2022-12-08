@@ -10,20 +10,20 @@ function Skills() {
         <div className="heading">My Skills</div>
       </Row>
 
-      <Row style={{ marginTop: 20}}>
+      <Row style={{ marginTop: 12}}>
         <p className='title'>Web Design</p>
         <Progress strokeLinecap="butt" percent={80} showInfo={false} trailColor='#E9FFEB'/>
       </Row>
-      <Row style={{ marginTop: 20}}>
+      <Row style={{ marginTop: 12}}>
         <p className='title'>Graphic Design</p>
         <Progress strokeLinecap="butt" percent={90} showInfo={false} trailColor='#E9FFEB'/>
       </Row>
-      <Row style={{ marginTop: 20}}>
+      <Row style={{ marginTop: 12}}>
         <p className='title'>Photography</p>
         <Progress strokeLinecap="butt" percent={75} showInfo={false}trailColor='#E9FFEB'/>
       </Row>
      
-      <Row style={{ marginTop: 30, backgroundColor: '#E7FFE9', padding: '15px 0'}} align='middle' justify='center'>
+      <Row style={{ marginTop: 24, backgroundColor: '#E7FFE9', padding: '15px 0'}} align='middle' justify='center'>
         <Col span={6}>
         <Row  align='middle' justify='center'>
           <div className="custom">
