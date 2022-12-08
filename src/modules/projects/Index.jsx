@@ -34,6 +34,10 @@ function Projects() {
         </Col>
       </Row>
 
+      <Row justify='center'>
+          <p className='show-more'>SHOW MORE</p>
+      </Row>
+
     </Col>
   )
 }
