@@ -7,7 +7,7 @@ function About() {
     <Col className='about content'>
       <Row justify='center'>
         <div style={{ position: 'relative'}}>
-          <img src="src/assets/imgs/ava.png" className='avatar' />
+          <img src={'assets/imgs/ava.png'} className='avatar' />
         <div className="box-1 box "></div>
         <div className=" box-2 box"></div>
         </div>
