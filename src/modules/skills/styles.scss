@@ -12,6 +12,7 @@
     .title {
         font-size: 22px;
         letter-spacing: 5px;
+        color: #4a4a4a;
     }
 
     .custom {
@@ -23,8 +24,9 @@
 
     .download {
         border: none;
-        padding: 10px 20px;
+        padding: 18px 24px;
         background-color: #E7FFE9;
+        font-size: 22px;
         
         &:hover {
             cursor: pointer;
