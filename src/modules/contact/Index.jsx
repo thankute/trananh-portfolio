@@ -91,7 +91,7 @@ function Contact() {
             </Row>
         </Form>
       </Col>
-      <Row style={{marginTop: 40}}>
+      <Row style={{marginTop: 80, marginBottom: 20}}>
         <a href="https://www.facebook.com/llt.229" target='_blank'>
           <img src='src/assets/imgs/Vector.png' className='social-media'/>
         </a>
