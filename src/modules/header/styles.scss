@@ -6,3 +6,24 @@
 .sub__title {
     font-size: 40px;
 }
+
+@media only screen and (min-width: 901px) and (max-width: 1280px) {
+    .title {
+        font-size: 75px;
+        letter-spacing: 8px;
+    }
+
+    .sub__title {
+        font-size: 30px;
+    }
+}
+@media only screen and (max-width: 900px) {
+    .title {
+        font-size: 60px;
+        letter-spacing: 6px;
+    }
+
+    .sub__title {
+        font-size: 20px;
+    }
+}
